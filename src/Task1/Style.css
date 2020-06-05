@@ -1,0 +1,9 @@
+.styling{
+    background-color: rgb(44, 44, 150);
+    display: flex;
+    padding: 20px; 
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10px;
+    color:white;
+}

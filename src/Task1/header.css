@@ -1,0 +1,367 @@
+.btn{
+    background-color: rgb(252, 72, 40);
+    color:whitesmoke;
+    font-size: 15px;
+    border-radius:25px;
+    padding: 15px 27px;
+    border: none;
+    margin-top: 20px;
+    margin-left: 700px;
+    
+    
+    
+}
+.btn:hover{
+    background-color: rgb(90, 207, 207);
+}
+.head{
+    display:'flex';
+    background-color:#061261;
+}
+.btnsdrop{
+    background-color:#061261;
+    color: darkblue;
+
+}
+.btns{
+    background-color:#061261;
+    color: cornsilk;
+    padding: 30px;
+    border: none;
+}
+.btns:hover{
+    color:#566ca7
+}
+
+
+.dog1{
+    width: 35%;
+    margin-left: 600px;
+}
+.welcome{
+color:red;
+text-align:left;
+font-weight: 350;
+margin-left: 100px;
+margin-top: -500px;}
+.bestcare{
+    font-weight: 400;
+    position: relative;
+    text-align: left;
+    margin-left: 99px;
+    font-size: 50px;
+    margin-top: -10px;
+}
+.services{
+    background-color:  rgb(90, 207, 207);
+    color:whitesmoke;
+    font-size: 15px;
+    border-radius:25px;
+    padding: 15px 27px;
+    border: none;
+    margin-top: -10px;
+    margin-left: -1010px;
+}
+.services:hover{
+    background-color: rgb(252, 72, 40)  
+}
+.dog2{
+    width: 40%;
+    margin-top: 500px;
+    margin-right: 150px;
+}
+.dogicon{
+    /* margin-bottom: 480px; */
+    margin-right: 440px;
+    margin-top: 130px;
+    
+  }
+  .para1{
+    font-weight: 300;
+    position: relative;
+    text-align: right;
+    margin-right: 150px;
+    font-size: 50px;
+    margin-top: -450px;
+    
+  }
+  .para2{
+      font-weight: 300;
+      text-align: right;
+      margin-right: 396px;
+      font-size: 50px;
+      margin-top: -50px;
+  }
+  .line1{
+    text-align: right;
+    margin-right: 170px;
+    margin-top: -30px;
+    font-size: 15px;
+    font-weight: 200;
+
+  }
+  .line2{
+    text-align: right;
+    margin-right: 155px;
+    margin-top: -29px;
+    font-size: 15px;
+    font-weight: 200;
+
+
+  }
+  .line3{
+    text-align: right;
+    margin-right: 142px;
+    margin-top: -28px;
+    font-size: 15px;
+    font-weight: 200;
+
+
+  }
+.line4{
+    text-align: right;
+    margin-right: 402px;
+    margin-top: -27px;
+    font-size: 15px;
+    font-weight: 200;
+
+
+}
+.About{
+    background-color:  rgb(90, 207, 207);
+    color:whitesmoke;
+    font-size: 13px;
+    border-radius:25px;
+    padding: 18px 70px;
+    border: none;
+    margin-left: 400px;
+    margin-top: 60px;
+}
+.About:hover{
+    background-color: rgb(252, 72, 40)  
+
+}
+.dogicon1{
+  margin-left: 0px;
+  margin-top: 100px;
+}
+.para3{
+    font-weight: 350;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 15px;
+}
+.page3{
+    margin-top: 140px;
+}
+.line5{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 200;
+
+}
+.line6{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 200;
+}
+.pet1{
+    margin-top: 30px;
+    font-size: 32px;
+    font-weight: 400;
+}
+.pet2{
+    margin-top: 30px;
+     font-size: 32px;
+    font-weight: 400;
+}
+.pet3{
+    margin-top: 30px;
+    font-size: 32px;
+    font-weight: 400;
+}
+.para4{
+    font-weight: 400;
+    font-size: 42px;
+    margin-left: -100px;
+}
+.para5{
+    font-weight: 400;
+    font-size:42px ;
+    margin-left: -260px;
+    margin-top: -20px;
+}
+.page4{
+    margin-top: 190px;
+}
+.line7{
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: -28px;
+
+}
+.line8{
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: -180px;
+    margin-top: -15px;
+
+}
+
+.page4dog{
+    margin-top: -70px;
+    margin-right: 200px;
+}
+.page4icon1{
+    font-size: 30px;
+    margin-left: 30px;
+}
+.page4icon2{
+    font-size: 30px;
+    margin-left: 16px;
+    }
+    .pa1{
+        margin-left: 35px;
+    }
+    .pa2{
+        margin-left: 10px;
+
+    }
+
+    .btn4{
+        background-color:  rgb(90, 207, 207);
+        color:whitesmoke;
+        font-size: 13px;
+        border-radius: 25px;
+        padding: 18px 50px;
+        border: none;
+        margin-right: 250px;
+    }
+    .btn4:hover{
+        background-color: rgb(252, 72, 40)  
+    }
+.page5dog{
+    background-size: 100%;
+    width: 95%;
+    height: 700px;
+    margin-top: 200px;
+}
+.site-card{
+    text-align: center;
+    margin-top: -620px;
+    margin-left: 520px;
+
+        
+    }
+    .dog5{
+    margin-right: 500px;
+        margin-top: 10px;
+        font-size: 32px;
+        font-weight: 400;
+
+    }
+    .pet5{
+        color: rgb(11, 11, 173);
+        text-align: left;
+        font-size: 32px;
+        font-weight: 400;
+        margin-left: -80px;
+    }
+    .pet52{
+        color: rgb(11, 11, 173);
+
+        text-align: left;
+        font-size: 32px;
+        font-weight: 400;
+        margin-left: 80px;  
+    }
+    .carousel{
+        color: orangered;
+        
+    }
+    .pet53{
+        text-align: left;
+        margin-left: 100px;
+    }
+    .sec6{
+        margin-top: 300px;
+    }
+    .page6{
+        margin-top: 200px;
+        margin-left: 90px;
+    }
+   
+    .para6{
+    font-weight: 300;
+    text-align: left;
+    font-size: 50px;
+    margin-top: 20px;  
+    }
+    .line61{
+        text-align: left;
+
+    }
+    .btn6{
+        background-color:  rgb(90, 207, 207);
+        color:whitesmoke;
+        font-size: 13px;
+        border-radius: 25px;
+        padding: 15px 50px;
+        border: none;
+        margin-right: 310px;
+        margin-top: 20px;
+       }
+       .btn6:hover{
+        background-color: rgb(252, 72, 40)  
+  
+       }
+    .icon6{
+        margin-top: 270px;
+        margin-right: 450px;
+    }
+    .page7{
+        /* background-color: rgb(5, 22, 83); */
+        background-color: #212529;
+        width: 100%;
+        height: 800px;
+        margin-top: 150px;
+    }
+    .page71{
+       text-align: center;
+       color: cornsilk;
+       font-size: 30px;
+       font-weight: 300;
+       padding-top: 120px;
+    }
+    .page72{
+        text-align: center;
+        color: cornsilk;
+        font-size: 15px;
+        font-weight: 300;
+    }
+    .page73{
+        width:40%;
+        margin-left: 400px;
+    }
+    .r1,.r2,.r3,.r4{
+        color: cornsilk;
+        font-weight: 300;
+        padding-top: 50px;
+    }
+    .r11,.r12,.r13,.r14,.r21,.r22,.r31,.r32,.r41,.r42{
+        color: cornsilk;
+        font-weight: 100;
+        
+    }
+    .r11,.r21,.r31,.r41{
+        padding-top: 25px;
+    }
+    .footerlogo{
+       margin-top: 180px; 
+       margin-right: 70%;    
+    }
+    .copyright{
+        text-align: right;
+        color: cornsilk;
+        margin-right: 150px;
+    }
